@@ -4,19 +4,7 @@
 
 
 
-# With Docker
-> docker-compose up
 
-
-
-
-....
-
-## Installation
-
-```bash
-$ npm install
-```
 
 ### How do I get set up? ###
 Requirements: truffle, testrpc
@@ -24,18 +12,9 @@ Requirements: truffle, testrpc
 > truffle compile
 > truffle migrate
 
-## Running the app
 
-```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
+# With Docker
+> docker-compose up
 
 > Swagger
 http://localhost:5005/swagger
-
-# production mode
-....
-```
